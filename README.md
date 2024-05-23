@@ -1,6 +1,6 @@
-# Leetcode daily question
+# Daily Leetcode question
 
-This is a repository for me to record my daily routine for solving the leetcode problems. Any suggestion  
-or error found, please contact me at <xws1826@gmail.com>.  
-Appreciate all the meaningful advices.  
+This repository allows me to record my daily routine for solving the leetcode problems. Any suggestion  
+or error found, please get in touch with me at <xws1826@gmail.com>.  
+I appreciate all the meaningful advice.  
 
